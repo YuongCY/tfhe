@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuong/tfhe/src/libtfhe/fft_processors/spqlios/lagrangehalfc_impl_avx.s
+
+/home/yuong/tfhe/src/libtfhe/fft_processors/spqlios/spqlios-fft-avx.s
+
+/home/yuong/tfhe/src/libtfhe/fft_processors/spqlios/spqlios-ifft-avx.s
+
